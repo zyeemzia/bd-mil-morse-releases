@@ -1,10 +1,8 @@
 {
-  "latest_version": "1.1.0",
-  "latest_build": 3,
+  "latest_version": "1.0.0",
+  "latest_build": 1,
   "min_supported_version": "1.0.0",
   "apk_url": "https://github.com/zyeemzia/bd-mil-morse-releases/releases/download/v1.1.0/bdmilmorse-1.1.0.apk",
-  "store_url": "https://play.google.com/store/apps/details?id=com.zyeemzia.bdmilmorsecode",
   "release_notes": "• Landscape polish across every tab\n• New Learn drills + streaks\n• Faster startup\n• Bug fixes",
-  "size_mb": 24.5,
   "mandatory": false
 }
